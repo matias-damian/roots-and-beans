@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.karma/
+coverage/
+.DS_Store
+node_modules/
+dist/
+coverage/
+.karma/
+.DS_Store
+.env
+.env.local
